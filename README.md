@@ -1,2 +1,3 @@
-# Magic
-Magic (dunder method)
+# CMP 242
+assignments
+
